@@ -164,7 +164,7 @@ PARTE B - Na máquina SEM internet:
 
 
 ================================================================
-5. MODO SILENCIOSO E ATALHO DE ESPIÃO
+5. MODO SILENCIOSO E ATALHO
 ================================================================
 
 O atalho "File Indexer" criado pelo "instalador.bat" já roda o
