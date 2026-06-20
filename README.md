@@ -1,8 +1,7 @@
-================================================================
-                   FILE INDEXER
-       Indexador e buscador de arquivos locais
-                Instruções de uso
-================================================================
+FILE INDEXER - Indexador e buscador de arquivos locais
+
+
+** Instruções de uso
 
 
 ÍNDICE
